@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1669551956
-ModificationTime: 1669747045
+ModificationTime: 1669747111
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,10 +46,10 @@ LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is lic
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 60 6 14
+WinInfo: 96 4 10
 BeginPrivate: 0
 EndPrivate
 Grid
