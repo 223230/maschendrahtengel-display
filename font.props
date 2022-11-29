@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1669551956
-ModificationTime: 1669554002
+ModificationTime: 1669742036
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -49,9 +49,27 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 40 8 13
-OnlyBitmaps: 1
+WinInfo: 90 10 14
 BeginPrivate: 0
 EndPrivate
+Grid
+-971 546.08203125 m 0
+ 2029 546.08203125 l 1024
+579 550 m 25
+ 29 0 l 1024
+579 0 m 25
+ 29 550 l 1024
+579 1300 m 0
+ 579 0 l 0
+ 579 -700 l 1024
+-972 275 m 0
+ 2028 275 l 1024
+304 1300 m 0
+ 304 -700 l 1024
+-461 550 m 1
+ 29 550 l 0
+ 1305 550 l 1025
+  Named: "x-Height"
+EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont
